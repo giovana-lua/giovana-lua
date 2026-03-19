@@ -2,7 +2,7 @@
 
 #  Giovana Souza
 
-Olá meu nome Giovana, tenho 21 anos, e atualmente estou cursando técnico em Desenvolvimento de Sistemas no SENAI, sou apaixonada por tecnologia e em saber como as coisas funcionam, aqui mostro um pouco do meu aprendizado.
+Olá meu nome Giovana, tenho 21 anos, e atualmente estou cursando técnico em Desenvolvimento de Sistemas no SENAI, apaixonada por tecnologia e por aprender algo novo todos os dias. Aqui você encontra um pouquinho do meu mundo e da minha evolução na programação.
 
 
 ## 🚀 Tecnologias e Ferramentas
