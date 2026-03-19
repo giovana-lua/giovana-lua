@@ -9,7 +9,7 @@
 Olá meu nome Giovana, tenho 21 anos, e atualmente estou cursando técnico em Desenvolvimento de Sistemas no SENAI, apaixonada por tecnologia e por aprender algo novo todos os dias. Aqui você encontra um pouquinho do meu mundo e da minha evolução na programação.
 
 ##
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/giovana-souza/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/giovana-souza-268b35305/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:giovanasouza1503@gmail.com)
 
 
