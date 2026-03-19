@@ -33,7 +33,7 @@ ___
     height="200" 
     widht="300"
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=giovana-lua&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=giovana-lua&show_icons=true&bg_color=2d2a3e&title_color=d6a3ff&text_color=e2e2e2&icon_color=c5a3ff" height="180em" 
   />
 
   <img 
@@ -42,7 +42,7 @@ ___
       height="200" 
       widht="600"
       style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovana-lua&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovana-lua&layout=compact&langs_count=7&bg_color=2d2a3e&title_color=d6a3ff&text_color=e2e2e2&icon_color=c5a3ff&color_range=c5a3ff,9067c6,f299cf" height="180em"
   />
 
 </p>
